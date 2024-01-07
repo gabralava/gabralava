@@ -1,8 +1,3 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
-
 ### Привет, меня зовут Георгий!  
   
 
@@ -39,10 +34,10 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://t.me/gabralava" target="_blank">
-<img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
+<img alt="Static Badge" src="https://img.shields.io/badge/-gabralava-blue?style=flat&logo=telegram&logoColor=white&link=https%3A%2F%2Ft.me%2Fgabralava">
 </a>
 <a href="https://vk.com/gabralava" target="_blank">
-<img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
+<img alt="Static Badge" src="https://img.shields.io/badge/-%D0%92%D0%9A%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5-blue?style=for-the-badge&logo=vk&logoColor=white&link=https%3A%2F%2Fvk.com%2Fgabralava">
 </a>
 </div>  
   
