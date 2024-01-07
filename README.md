@@ -5,13 +5,20 @@
   
 
 Я начинающий мобильный разработчик. Обучаюсь на 2 курсе ЯГТУ на факультете программная инженерия. Во время обучения в ВУЗе изучил такие технологии как: Java, Python Django. До этого плотно изучал веб-разработку, а именно: HTML & CSS | Bootstrap 5. В настоящий момент загорелся разработкой мобильных приложений и изучаю Flutter & Dart  
-  
+
+- :telescope: Обучаюсь в ЯГТУ на факультете программная инженерия
+
+- :seedling: Завершил курсы по веб-разработке от FructCode
+
+- :zap: Занимаюсь мобильной разработкой.
+
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-gabralava-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/gabralava) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:georgijabralava@gmail.com)
 
 <br/>  
 
 
 
-### Технологии:  
+### 💻 Технологии:  
 <div align="left">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
@@ -28,7 +35,7 @@
 
 
 
-### Социальные сети:  
+### 🤝 Социальные сети:  
 <div align="left">
 <a href="https://github.com/gabralava" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -48,10 +55,12 @@
 
 | Курсы                                                           |   Дата окончания  |
 | ----------------------------------------------------------------| :---------------: |
-| [sololearn]sololearn.com - Введение в Java                      |     25/09/2023    |
-| [sololearn]sololearn.com - Python для начинающих                |     03/02/2021    |
-| [sololearn]fructcode.com - HTML/CSS                             |     ##/##/####    |
-| [sololearn]fructcode.com - Bootstrap 3                          |     ##/##/####    |
-| [sololearn]fructcode.com - PHP/MySQL                            |     ##/##/####    |
+| sololearn.com - Введение в Java                      |     25/09/2023    |
+| sololearn.com - Python для начинающих                |     03/02/2021    |
+| fructcode.com - HTML/CSS                             |     ##/##/####    |
+| fructcode.com - Bootstrap 3                          |     ##/##/####    |
+| fructcode.com - PHP/MySQL                            |     ##/##/####    |
 
 ---
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/VanDam_423?theme=dark&font=Montserrat&ext=contest)
