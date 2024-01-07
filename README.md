@@ -12,7 +12,7 @@
 
 
 ### Технологии:  
-<div align="center">  
+<div align="left">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
 <a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" /></a>  
@@ -29,12 +29,12 @@
 
 
 ### Социальные сети:  
-<div align="center">
+<div align="left">
 <a href="https://github.com/gabralava" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://t.me/gabralava" target="_blank">
-<img alt="Static Badge" src="https://img.shields.io/badge/-gabralava-blue?style=flat&logo=telegram&logoColor=white&link=https%3A%2F%2Ft.me%2Fgabralava">
+<img alt="Static Badge" src="https://img.shields.io/badge/-gabralava-blue?style=for-the-badge&logo=telegram&logoColor=white&link=https%3A%2F%2Ft.me%2Fgabralava">
 </a>
 <a href="https://vk.com/gabralava" target="_blank">
 <img alt="Static Badge" src="https://img.shields.io/badge/-%D0%92%D0%9A%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5-blue?style=for-the-badge&logo=vk&logoColor=white&link=https%3A%2F%2Fvk.com%2Fgabralava">
